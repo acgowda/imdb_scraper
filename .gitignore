@@ -1,0 +1,4 @@
+# Don't include temp files
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
